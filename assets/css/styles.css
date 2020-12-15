@@ -1,0 +1,47 @@
+#Title {
+}
+
+#Cont {
+  padding-top: 50px;
+}
+
+#sec1 {
+  padding-top: 56px;
+}
+
+#Jumb {
+  text-align: center;
+}
+
+#Jumm {
+  text-align: justify;
+  padding: 55px;
+}
+
+#JumbEdits {
+  border-radius: 15px;
+  background-color: rgba(255,255,255,0.75);
+  margin: 0 auto;
+}
+
+#Butns {
+  padding: 15px;
+  padding-top: 50px;
+}
+
+.btn.btn-primary.btn-block.btn {
+  border: 3px solid #fff;
+}
+
+#pd {
+  padding-top: 56px;
+}
+
+.pdd {
+  padding-top: 56px;
+}
+
+#section {
+  padding-top: 10px;
+}
+
